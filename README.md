@@ -14,3 +14,8 @@ This project is to create what is essentially a 'high capacity' cassete tape, ab
 ### Other Objectives
 - rewind, fast forward, stop functions
 - emulate cassete behaviour instead of modern digital player
+
+
+
+Image of a (partially) finished mono-channel low pass, and high pass audio filter, planning on duplicating this to the other side of the board to get a dual channel. 
+![alt text](https://media.discordapp.net/attachments/559906716419096600/834112284933488650/DSC_0010.JPG?width=1157&height=651)
